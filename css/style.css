@@ -1,0 +1,12 @@
+/* Custom CSS */
+
+/* MEDIA */
+img, audio, video, iframe, table, form {
+  width: 100%;
+  max-width: 100%;
+}
+
+/* LAYOUT STYLES*/
+.row {
+  margin-bottom: 20px;
+}
